@@ -1,0 +1,72 @@
+{
+    "flags": [
+        {
+            "name": "Polska",
+            "image": "images/poland.png"
+        },
+        {
+            "name": "USA",
+            "image": "images/usa.png"
+        },
+        {
+            "name": "Japonia",
+            "image": "images/japan.png"
+        },
+        {
+            "name": "Brazylia",
+            "image": "images/brazil.png"
+        },
+        {
+            "name": "Francja",
+            "image": "images/france.png"
+        },
+        {
+            "name": "Albania",
+            "image": "images/albania.png"
+        },
+        {
+            "name": "Andora",
+            "image": "images/andora.png"
+        },
+        {
+            "name": "Austria",
+            "image": "images/austria.png"
+        },
+        {
+            "name": "Belgia",
+            "image": "images/belgia.png"
+        },
+        {
+            "name": "Białoruś",
+            "image": "images/bialorus.png"
+        },
+        {
+            "name": "Bośnia i Hercegowina",
+            "image": "images/bosna.png"
+        },
+        {
+            "name": "Bułgaria",
+            "image": "images/blugaria.png"
+        },
+        {
+            "name": "Chorwacja",
+            "image": "images/chorwacja.png"
+        },
+        {
+            "name": "Czarnogóra",
+            "image": "images/czarnogora.png"
+        },
+        {
+            "name": "Czechy",
+            "image": "images/czechy.png"
+        },
+        {
+            "name": "Dania",
+            "image": "images/dania.png"
+        },
+        {
+            "name": "Estonia",
+            "image": "images/estonia.png"
+        }
+    ]
+}
